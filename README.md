@@ -1,1 +1,12 @@
 # introduction.js
+  
+    <body>
+      <script language="javascript" type ="text/javascript">
+       var n,h,c
+       n=prompt ("enter your name") 
+       h=prompt ("enter your height")
+       c=propmt ("enter your country")
+       document. write (n + "<br>" + h + c + "<br>"
+      
+       </script>
+       
